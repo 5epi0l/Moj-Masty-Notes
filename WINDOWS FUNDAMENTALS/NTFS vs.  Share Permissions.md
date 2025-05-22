@@ -23,9 +23,19 @@ NTFS Permissions and share permissions are thought to be the same, but they are 
 #### NTFS Special permissions
 
 
-|     |     |
-| --- | --- |
-|     |     |
+| Permission                     | Description                                                                                                                                                                                                                               |
+| ------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Full Control                   | Users are permitted or denied permissions to add, edit, move, delete files and folders as well as change NTFS permissions that apply to all permitted folders                                                                             |
+| Traverse folder / execute file | Users are permitted or denied permissions to access subfolder within a directory structure even if the user is denied access to contents at the parent folder level. Users may also be permitted or denied permissions to execute program |
+| List folder / read data        | Users are permitted or denied permissions to view files and folders contained in the parent folder. Users can also be permitted to open and view files                                                                                    |
+| Read attributes                | Users are permitted or denied permissions to view basic attributes of a folder or file.                                                                                                                                                   |
+| Read extended atttributes      | Users are permitted or denied permissions to view extended attribute of a file or folder. Attributes differ depending on the program                                                                                                      |
+| Create files / write data      | Users are permitted or denied permissions to create files within a folder and make changes to a file                                                                                                                                      |
+| Create folders / append data   | Users are permitted or denied permissions to create subfolders. Data can be added to files but pre-existing content cannot be overwritten                                                                                                 |
+| Write attributes               | Users are permitted or denied to change file attributes. This permission does not grant access to creating files or folders                                                                                                               |
+| Write extended attributes      | Users are permitted or denied to change extended attributes on a file or folder. Attributes differ depending on the program                                                                                                               |
+| Take ownership                 | Users are permitted or denied permission to take ownership of a file or folder. The owner of a file has full permissions to change any permissions                                                                                        |
+|                                |                                                                                                                                                                                                                                           |
 
 
 
