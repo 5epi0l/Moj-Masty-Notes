@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WINDOWS FUNDAMENTALS/5. NTFS vs.  Share Permissions.md",
+                "file": "WINDOWS FUNDAMENTALS/9. Execution Policy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. NTFS vs.  Share Permissions"
+              "title": "9. Execution Policy"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WINDOWS FUNDAMENTALS/5. NTFS vs.  Share Permissions.md",
+                "file": "WINDOWS FUNDAMENTALS/9. Execution Policy.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 5. NTFS vs.  Share Permissions"
+              "title": "Outline of 9. Execution Policy"
             }
           }
         ],
@@ -169,10 +169,11 @@
   },
   "active": "702728993ebc4502",
   "lastOpenFiles": [
+    "WINDOWS FUNDAMENTALS/8. Windows Sessions.md",
+    "WINDOWS FUNDAMENTALS/9. Execution Policy.md",
+    "WINDOWS FUNDAMENTALS/5. NTFS vs.  Share Permissions.md",
     "WINDOWS FUNDAMENTALS/6. Windows Service and Processes.md",
     "WINDOWS FUNDAMENTALS/7. Service Permissions.md",
-    "WINDOWS FUNDAMENTALS/8. Windows Sessions.md",
-    "WINDOWS FUNDAMENTALS/5. NTFS vs.  Share Permissions.md",
     "WINDOWS FUNDAMENTALS/4. File System.md",
     "WINDOWS FUNDAMENTALS/3. OS Structure.md",
     "WINDOWS FUNDAMENTALS/2. Accessing Windows.md",
@@ -200,7 +201,6 @@
     "eJPT",
     "INTRODUCTION.md",
     "MALDEV/Bypassing win10 AV/Bypassing windows 10 defender.md",
-    "MALDEV/Process Injection/DLL Injection/Introduction to DLL Injection.md",
     "MALDEV/Process Injection/Early-Bird APCQueueUser Injection/Pasted image 20240202224022.png",
     "Pasted image 20240324235353.png",
     "Pasted image 20240324235021.png",
