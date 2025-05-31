@@ -72,6 +72,20 @@ In Active Directoy, RID (Relative Identifier) ranges are used to assign unique i
 
 If `enumdomusers` is disabled, we can manually enumerate users via RPC using the following bash command :
 
+
 ```bash
 for i in $(seq 500 2000); do echo "queryuser $i" | rpcclient -U "" -N ip 2>/dev/null | grep -i "User Name"; done
 ```
+
+
+
+
+
+
+### Username Enum with Kerbrute
+
+
+- Kerberos is the primary authentication protocol for AD
+- Kerberos uses a tickey-based system managed by a trusted third-party, the key distribution center (KDC)
+- kerbrute is a popular tool that brute-force and enumerate valid AD users by abusing kerberos pre-auth
+- When Kerberos pre-auth is disabled, a 
