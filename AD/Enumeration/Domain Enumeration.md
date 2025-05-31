@@ -43,4 +43,35 @@ enum4linux-ng -A ip -oA results.txt
 
 - Microsoft RPC is a protocol that enables a program running on one computer to request services from a program on another computer, without needing to understand the underlying details of the network.
 - RPC services can be accesses over the SMB protocol
-- 
+
+
+We can run the following command to verify the NULL sessions access
+
+```bash
+rpcclient -U "" ip -N
+```
+
+
+**-N** : Tells RPC not to prompt for a password
+
+
+
+
+
+
+### RID Cycling
+
+In Active Directoy, RID (Relative Identifier) ranges are used to assign unique identifiers to users and group objects. These RIDs are components of the Security Identifier (SID), which uniquely identifies each object within a domain. 
+
+
+- 500 is the Admin Account
+- 501 is the guest account
+- 512-514 are for the following groups : Domain Admins, Domain Users, Domain guests
+- User accounts typically start from RID 1000
+
+
+If `enumdomusers` is disabled, we can manually enumerate users via RPC using the following bash command :
+
+```bash
+for i in $(seq 500 2000); do echo "queryuser $i" | rpcclient -U "" -N ip 2>/dev/null | grep -i "User Name"; done
+```
