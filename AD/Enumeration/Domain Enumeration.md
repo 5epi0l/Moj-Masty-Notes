@@ -88,4 +88,4 @@ for i in $(seq 500 2000); do echo "queryuser $i" | rpcclient -U "" -N ip 2>/dev/
 - Kerberos is the primary authentication protocol for AD
 - Kerberos uses a tickey-based system managed by a trusted third-party, the key distribution center (KDC)
 - kerbrute is a popular tool that brute-force and enumerate valid AD users by abusing kerberos pre-auth
-- When Kerberos pre-auth is disabled, an attacker can request a TGT from the KDC on behalf of any user without actually verifying their identity. Then, receive a response from the KDC which is encrypted with the user's password-derived key
+- When Kerberos pre-auth is disabled, an attacker can request a TGT from the KDC on behalf of any user without actually needing to prove knowledge of the user's password. Then, receive a response from the KDC which is encrypted with the user's password-derived key. 
