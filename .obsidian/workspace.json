@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Windows PrivEsc/Checklist.md",
+                "file": "AD/Enumeration/Domain Enumeration.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Checklist"
+              "title": "Domain Enumeration"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Windows PrivEsc/Checklist.md",
+                "file": "AD/Enumeration/Domain Enumeration.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Checklist"
+              "title": "Outline of Domain Enumeration"
             }
           }
         ],
@@ -169,6 +169,7 @@
   },
   "active": "e5af9f9e164caa5f",
   "lastOpenFiles": [
+    "Windows PrivEsc/Checklist.md",
     "WINDOWS FUNDAMENTALS/8. Windows Sessions.md",
     "WINDOWS FUNDAMENTALS/7. Service Permissions.md",
     "WINDOWS FUNDAMENTALS/6. Windows Service and Processes.md",
@@ -197,7 +198,6 @@
     "WINDOWS FUNDAMENTALS",
     "Network Traffic Analysis/WireShark and TShark.md",
     "Network Traffic Analysis/Introduction.md",
-    "Windows PrivEsc/Checklist.md",
     "NVchad keybindings.md",
     "Web3.md",
     "Network Traffic Analysis",
