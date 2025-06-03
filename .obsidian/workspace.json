@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "90a1b559595a5998",
+        "id": "4a472f80bdb37b88",
         "type": "tabs",
         "children": [
           {
-            "id": "702728993ebc4502",
+            "id": "e5af9f9e164caa5f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WINDOWS FUNDAMENTALS/4. File System.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "4. File System"
+              "title": "New tab"
             }
           }
         ]
@@ -140,13 +136,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WINDOWS FUNDAMENTALS/4. File System.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 4. File System"
+              "title": "Outline"
             }
           }
         ],
@@ -167,13 +162,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "702728993ebc4502",
+  "active": "e5af9f9e164caa5f",
   "lastOpenFiles": [
     "WINDOWS FUNDAMENTALS/5. NTFS vs.  Share Permissions.md",
+    "WINDOWS FUNDAMENTALS/4. File System.md",
     "WINDOWS FUNDAMENTALS/8. Windows Sessions.md",
     "WINDOWS FUNDAMENTALS/6. Windows Service and Processes.md",
     "WINDOWS FUNDAMENTALS/7. Service Permissions.md",
-    "WINDOWS FUNDAMENTALS/4. File System.md",
     "AD/Exploitation/Kerberoasting.md",
     "AD/Exploitation/ASREPRoasting.md",
     "AD/Enumeration/Domain Enumeration.md",
