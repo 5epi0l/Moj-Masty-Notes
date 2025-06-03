@@ -14,5 +14,5 @@
 		**f** these 2 registers are **enabled** (value is **0x1**), then users of any privilege can **install** (execute) `*.msi` files as NT AUTHORITY\SYSTEM
 
 3.  If htdocs under XAMPP is running and is writable, then we can upload a shell inside htdocs and execute it via the website to gain system account
-4. run `qwinsta` on the machine to display all active sessions
+4. run `qwinsta` on the machine to display all active sessions. If there are any other active sessions, we could try to compromise it. 
 5. 
