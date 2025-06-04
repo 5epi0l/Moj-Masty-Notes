@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UACBypass/UAC - OverView and Working.md",
+                "file": "WINDOWS FUNDAMENTALS/12. Windows Security.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "UAC - OverView and Working"
+              "title": "12. Windows Security"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UACBypass/UAC - OverView and Working.md",
+                "file": "WINDOWS FUNDAMENTALS/12. Windows Security.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of UAC - OverView and Working"
+              "title": "Outline of 12. Windows Security"
             }
           }
         ],
@@ -169,14 +169,17 @@
   },
   "active": "e5af9f9e164caa5f",
   "lastOpenFiles": [
+    "Windows PrivEsc/Checklist.md",
+    "Web3.md",
+    "NVchad keybindings.md",
     "WINDOWS FUNDAMENTALS/12. Windows Security.md",
+    "UACBypass/UAC - OverView and Working.md",
     "WINDOWS FUNDAMENTALS/11. Microsoft Management Console (MMC).md",
     "WINDOWS FUNDAMENTALS/10. Windows Management Instrumentation (WMI).md",
     "WINDOWS FUNDAMENTALS/9. Execution Policy.md",
     "Untitled.md",
     "WINDOWS FUNDAMENTALS/7. Service Permissions.md",
     "WINDOWS FUNDAMENTALS/8. Windows Sessions.md",
-    "Windows PrivEsc/Checklist.md",
     "MALDEV/AMSI Bypass Payloads.md",
     "AD/Enumeration/Domain Enumeration.md",
     "WINDOWS FUNDAMENTALS/6. Windows Service and Processes.md",
@@ -193,10 +196,7 @@
     "eJPT/Web Recon/DNS Zone Transfer.md",
     "UACBypass/Pasted image 20240126214055.png",
     "UACBypass/UAC Bypass.md",
-    "UACBypass/UAC - OverView and Working.md",
     "AD/PrivEsc/PrivEsc techniques in AD or standalone Windows Machines..md",
-    "AD/Lateral Movement/Token Manipulation.md",
-    "AD/Lateral Movement/PowerView and Impacket.md",
     "WINDOWS FUNDAMENTALS/OS Structure",
     "WINDOWS FUNDAMENTALS/Introduction",
     "WINDOWS FUNDAMENTALS",
