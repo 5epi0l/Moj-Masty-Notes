@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WINDOWS FUNDAMENTALS/12. Windows Security.md",
+                "file": "USEFUL LINKS/Useful Links.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "12. Windows Security"
+              "title": "Useful Links"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WINDOWS FUNDAMENTALS/12. Windows Security.md",
+                "file": "USEFUL LINKS/Useful Links.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 12. Windows Security"
+              "title": "Outline of Useful Links"
             }
           }
         ],
@@ -169,10 +169,11 @@
   },
   "active": "e5af9f9e164caa5f",
   "lastOpenFiles": [
+    "UACBypass/UAC Bypass.md",
+    "WINDOWS FUNDAMENTALS/12. Windows Security.md",
     "Windows PrivEsc/Checklist.md",
     "Web3.md",
     "NVchad keybindings.md",
-    "WINDOWS FUNDAMENTALS/12. Windows Security.md",
     "UACBypass/UAC - OverView and Working.md",
     "WINDOWS FUNDAMENTALS/11. Microsoft Management Console (MMC).md",
     "WINDOWS FUNDAMENTALS/10. Windows Management Instrumentation (WMI).md",
@@ -195,7 +196,6 @@
     "AD/Enumeration/Host Discovery.md",
     "eJPT/Web Recon/DNS Zone Transfer.md",
     "UACBypass/Pasted image 20240126214055.png",
-    "UACBypass/UAC Bypass.md",
     "AD/PrivEsc/PrivEsc techniques in AD or standalone Windows Machines..md",
     "WINDOWS FUNDAMENTALS/OS Structure",
     "WINDOWS FUNDAMENTALS/Introduction",
