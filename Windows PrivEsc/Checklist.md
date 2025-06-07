@@ -15,4 +15,4 @@
 
 3.  If htdocs under XAMPP is running and is writable, then we can upload a shell inside htdocs and execute it via the website to gain system account
 4. run `qwinsta` on the machine to display all active sessions. If there are any other active sessions, we could try to compromise it. 
-5. 
+5.  Always check the contents of `PS-ReadLine` directory  under `APPDATA` directory to uncover sensitive information. It often contains the console history and can leak credentials. 
