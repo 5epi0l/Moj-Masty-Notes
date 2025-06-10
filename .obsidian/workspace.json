@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Windows PrivEsc/Checklist.md",
+                "file": "Network Traffic Analysis/TCPDump.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Checklist"
+              "title": "TCPDump"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Windows PrivEsc/Checklist.md",
+                "file": "Network Traffic Analysis/TCPDump.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Checklist"
+              "title": "Outline of TCPDump"
             }
           }
         ],
@@ -169,6 +169,8 @@
   },
   "active": "e5af9f9e164caa5f",
   "lastOpenFiles": [
+    "Network Traffic Analysis/Introduction.md",
+    "Windows PrivEsc/Checklist.md",
     "WINDOWS FUNDAMENTALS/12. Windows Security.md",
     "WINDOWS FUNDAMENTALS/6. Windows Service and Processes.md",
     "WINDOWS FUNDAMENTALS/7. Service Permissions.md",
@@ -177,7 +179,6 @@
     "WINDOWS FUNDAMENTALS/3. OS Structure.md",
     "USEFUL LINKS/Useful Links.md",
     "UACBypass/UAC Bypass.md",
-    "Windows PrivEsc/Checklist.md",
     "Web3.md",
     "NVchad keybindings.md",
     "UACBypass/UAC - OverView and Working.md",
@@ -195,7 +196,6 @@
     "AD/Exploitation",
     "AD/Enumeration/Untitled.md",
     "AD/Enumeration/Host Discovery.md",
-    "eJPT/Web Recon/DNS Zone Transfer.md",
     "UACBypass/Pasted image 20240126214055.png",
     "WINDOWS FUNDAMENTALS/OS Structure",
     "WINDOWS FUNDAMENTALS/Introduction",
