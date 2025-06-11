@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NVchad keybindings.md",
+                "file": "AD/Enumeration/AD Cheatsheet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NVchad keybindings"
+              "title": "AD Cheatsheet"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NVchad keybindings.md",
+                "file": "AD/Enumeration/AD Cheatsheet.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of NVchad keybindings"
+              "title": "Outline of AD Cheatsheet"
             }
           }
         ],
@@ -169,6 +169,8 @@
   },
   "active": "e5af9f9e164caa5f",
   "lastOpenFiles": [
+    "NVchad keybindings.md",
+    "AD/Enumeration/AD Cheatsheet.md",
     "Network Traffic Analysis/TCPDump.md",
     "Network Traffic Analysis/Introduction.md",
     "Windows PrivEsc/Checklist.md",
@@ -181,7 +183,6 @@
     "USEFUL LINKS/Useful Links.md",
     "UACBypass/UAC Bypass.md",
     "Web3.md",
-    "NVchad keybindings.md",
     "UACBypass/UAC - OverView and Working.md",
     "WINDOWS FUNDAMENTALS/11. Microsoft Management Console (MMC).md",
     "WINDOWS FUNDAMENTALS/10. Windows Management Instrumentation (WMI).md",
@@ -195,7 +196,6 @@
     "AD/Exploitation/Kerberoasting.md",
     "AD/Exploitation/ASREPRoasting.md",
     "AD/Exploitation",
-    "AD/Enumeration/Untitled.md",
     "UACBypass/Pasted image 20240126214055.png",
     "WINDOWS FUNDAMENTALS/OS Structure",
     "WINDOWS FUNDAMENTALS/Introduction",
