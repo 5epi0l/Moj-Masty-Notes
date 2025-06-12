@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pivoting, Tunneling, And port forwarding/3. Dynamic Port Forwarding with SSH and SOCKS Tunneling.md",
+                "file": "HTB/Inject/CSRF Script in JS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Dynamic Port Forwarding with SSH and SOCKS Tunneling"
+              "title": "CSRF Script in JS"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pivoting, Tunneling, And port forwarding/3. Dynamic Port Forwarding with SSH and SOCKS Tunneling.md",
+                "file": "HTB/Inject/CSRF Script in JS.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 3. Dynamic Port Forwarding with SSH and SOCKS Tunneling"
+              "title": "Outline of CSRF Script in JS"
             }
           }
         ],
@@ -169,6 +169,10 @@
   },
   "active": "e5af9f9e164caa5f",
   "lastOpenFiles": [
+    "HTB/Alert/Key Takeway.md",
+    "HTB/Inject/CSRF Script in JS.md",
+    "Pivoting, Tunneling, And port forwarding/3. Dynamic Port Forwarding with SSH and SOCKS Tunneling.md",
+    "HTB/Alert",
     "UACBypass/UAC Bypass.md",
     "UACBypass/UAC - OverView and Working.md",
     "WINDOWS FUNDAMENTALS/8. Windows Sessions.md",
@@ -176,7 +180,6 @@
     "WINDOWS FUNDAMENTALS/10. Windows Management Instrumentation (WMI).md",
     "WINDOWS FUNDAMENTALS/11. Microsoft Management Console (MMC).md",
     "WINDOWS FUNDAMENTALS/12. Windows Security.md",
-    "Pivoting, Tunneling, And port forwarding/3. Dynamic Port Forwarding with SSH and SOCKS Tunneling.md",
     "Pivoting, Tunneling, And port forwarding/2. The Networking behind Pivoting.md",
     "Pivoting, Tunneling, And port forwarding/1. Introduction.md",
     "HTB/Inject/key Take Way from the machine inject.md",
@@ -196,8 +199,6 @@
     "USEFUL LINKS/Useful Links.md",
     "Web3.md",
     "MALDEV/AMSI Bypass Payloads.md",
-    "AD/Enumeration/Domain Enumeration.md",
-    "WINDOWS FUNDAMENTALS/2. Accessing Windows.md",
     "AD/Exploitation",
     "UACBypass/Pasted image 20240126214055.png",
     "WINDOWS FUNDAMENTALS/OS Structure",
@@ -205,7 +206,6 @@
     "WINDOWS FUNDAMENTALS",
     "Network Traffic Analysis",
     "eJPT/Web Recon",
-    "eJPT",
     "MALDEV/Process Injection/Early-Bird APCQueueUser Injection/Pasted image 20240202224022.png",
     "Pasted image 20240324235353.png",
     "Pasted image 20240324235021.png",
