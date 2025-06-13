@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTB/Buff/Key TakeWay.md",
+                "file": "Pivoting, Tunneling, And port forwarding/1. Introduction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Key TakeWay"
+              "title": "1. Introduction"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTB/Buff/Key TakeWay.md",
+                "file": "Pivoting, Tunneling, And port forwarding/1. Introduction.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Key TakeWay"
+              "title": "Outline of 1. Introduction"
             }
           }
         ],
@@ -169,14 +169,14 @@
   },
   "active": "e5af9f9e164caa5f",
   "lastOpenFiles": [
+    "Pivoting, Tunneling, And port forwarding/2. The Networking behind Pivoting.md",
+    "Pivoting, Tunneling, And port forwarding/3. Dynamic Port Forwarding with SSH and SOCKS Tunneling.md",
+    "Pivoting, Tunneling, And port forwarding/4. Remote Port Forwarding with SSH.md",
+    "Pivoting, Tunneling, And port forwarding/5. Meterpreter Tunneling and Port Forwarding.md",
     "Pivoting, Tunneling, And port forwarding/6. Socat Redirection with a reverse shell.md",
     "HTB/Buff/Key TakeWay.md",
     "HTB/Buff",
-    "Pivoting, Tunneling, And port forwarding/5. Meterpreter Tunneling and Port Forwarding.md",
     "Untitled.md",
-    "Pivoting, Tunneling, And port forwarding/4. Remote Port Forwarding with SSH.md",
-    "Pivoting, Tunneling, And port forwarding/3. Dynamic Port Forwarding with SSH and SOCKS Tunneling.md",
-    "Pivoting, Tunneling, And port forwarding/2. The Networking behind Pivoting.md",
     "Pivoting, Tunneling, And port forwarding/1. Introduction.md",
     "HTB/Alert/Key Takeway.md",
     "HTB/Inject/key Take Way from the machine inject.md",
