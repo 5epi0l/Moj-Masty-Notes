@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WINDOWS FUNDAMENTALS/10. Windows Management Instrumentation (WMI).md",
+                "file": "AD/Exploitation/Kerberoasting.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10. Windows Management Instrumentation (WMI)"
+              "title": "Kerberoasting"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WINDOWS FUNDAMENTALS/10. Windows Management Instrumentation (WMI).md",
+                "file": "AD/Exploitation/Kerberoasting.md",
                 "followCursor": false,
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 10. Windows Management Instrumentation (WMI)"
+              "title": "Outline of Kerberoasting"
             }
           }
         ],
@@ -169,6 +169,16 @@
   },
   "active": "e5af9f9e164caa5f",
   "lastOpenFiles": [
+    "HTB/Alert/CSRF Script in JS.md",
+    "AD/Exploitation/DCSync.md",
+    "AD/Enumeration/AD Cheatsheet.md",
+    "AD/Enumeration/Domain Enumeration.md",
+    "eJPT/Web Recon/DNS Zone Transfer.md",
+    "AD/Exploitation/Kerberoasting.md",
+    "AD/Exploitation/ASREPRoasting.md",
+    "WINDOWS FUNDAMENTALS/12. Windows Security.md",
+    "WINDOWS FUNDAMENTALS/11. Microsoft Management Console (MMC).md",
+    "WINDOWS FUNDAMENTALS/10. Windows Management Instrumentation (WMI).md",
     "WINDOWS FUNDAMENTALS/9. Execution Policy.md",
     "WINDOWS FUNDAMENTALS/8. Windows Sessions.md",
     "WINDOWS FUNDAMENTALS/7. Service Permissions.md",
@@ -186,18 +196,8 @@
     "Pivoting, Tunneling, And port forwarding/1. Introduction.md",
     "HTB/Buff/Key TakeWay.md",
     "HTB/Buff",
-    "Untitled.md",
-    "HTB/Alert/Key Takeway.md",
-    "HTB/Inject/key Take Way from the machine inject.md",
-    "HTB/Alert/CSRF Script in JS.md",
     "HTB/Alert",
-    "UACBypass/UAC Bypass.md",
-    "UACBypass/UAC - OverView and Working.md",
-    "WINDOWS FUNDAMENTALS/10. Windows Management Instrumentation (WMI).md",
-    "WINDOWS FUNDAMENTALS/11. Microsoft Management Console (MMC).md",
-    "WINDOWS FUNDAMENTALS/12. Windows Security.md",
     "Pivoting, Tunneling, And port forwarding",
-    "AD/Enumeration/AD Cheatsheet.md",
     "HTB/Inject",
     "HTB",
     "AD/Exploitation",
