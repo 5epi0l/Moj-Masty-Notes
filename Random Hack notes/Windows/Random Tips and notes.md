@@ -74,7 +74,7 @@
 
 
 
-34. HTA's are standalone applications that execute using the same models and technologies of Internet Explorer, but outside of the browser.Mshta is a utility that executes Microsoft HTML Applications (HTA). HTA files have the file extension `hta`. We can execute a malicious hta file hosted on a remote server using mshta to achieve code execution. See [[Useful commands]] for "howto"
+34. HTA's are standalone applications that execute using the same models and technologies of Internet Explorer, but outside of the browser. Mshta is a utility that executes Microsoft HTML Applications (HTA). HTA files have the file extension `hta`. We can execute a malicious hta file hosted on a remote server using mshta to achieve code execution. See [[Useful commands]] for "howto"
 
 
 
@@ -90,7 +90,7 @@
 
 40. We can combine an exe file with a jpg file using winrar to deceive a user into executing our malware. When the user clicks on the image, the image will open but in the backend our malware will get executed.
 
-41.  RID Bruteforcing can be done if we have read access to the `IPC$` share.  It's essentially and SMB exploit where if we have read access to the `IPC$` share, we can enumerate domain users by iterating through their RIDs.
+41.  RID Bruteforcing can be done if we have read access to the `IPC$` share.  It's essentially an SMB exploit where if we have read access to the `IPC$` share, we can enumerate domain users by iterating through their RIDs.
 
 
 
@@ -128,7 +128,7 @@
 52. We can make a trojan with iexpress software in windows. 
 
 
-53. Local Administrator Password Solution (Windows LAPS) is a Windows feature that automatically manages and backs up the password of a local administrator account on your Microsoft Entra joined or Windows Server Active Directory-joined devices to the DC. We can dump the LAPs to get access to admin passwords.
+53. Local Administrator Password Solution (Windows LAPS) is a Windows feature that automatically manages and backs up the password of a local administrator account on your Microsoft  joined or Windows Server Active Directory-joined devices to the DC. We can dump the LAPs to get access to admin passwords.
 
 
 54. An [_access token_](https://learn.microsoft.com/en-us/windows/desktop/SecGloss/a-gly) is an object that describes the [_security context_](https://learn.microsoft.com/en-us/windows/desktop/SecGloss/s-gly) of a [_process_](https://learn.microsoft.com/en-us/windows/desktop/SecGloss/p-gly) or thread. The information in a token includes the identity and privileges of the user account associated with the process or thread. When a user logs on, the system verifies the user's password by comparing it with information stored in a security database. If the password is [_authenticated_](https://learn.microsoft.com/en-us/windows/desktop/SecGloss/a-gly), the system produces an access token. Every process executed on behalf of this user has a copy of this access token.
@@ -153,3 +153,6 @@
 
 
 61. It is possible to execute any random binary/command whenever the user logs in to the pc by creating a new value in the registry of winlogon. 
+
+
+62. If a user has NTML auth disabled, we can try to perform a kerberos authentication with netexec using the -k flag if we have their password. 
