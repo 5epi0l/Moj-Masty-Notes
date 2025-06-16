@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pivoting, Tunneling, And port forwarding/11. ICMP Tunneling with SOCKS.md",
+                "file": "Pivoting, Tunneling, And port forwarding/5. Meterpreter Tunneling and Port Forwarding.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11. ICMP Tunneling with SOCKS"
+              "title": "5. Meterpreter Tunneling and Port Forwarding"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pivoting, Tunneling, And port forwarding/11. ICMP Tunneling with SOCKS.md",
+                "file": "Pivoting, Tunneling, And port forwarding/5. Meterpreter Tunneling and Port Forwarding.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 11. ICMP Tunneling with SOCKS"
+              "title": "Outline of 5. Meterpreter Tunneling and Port Forwarding"
             }
           }
         ],
@@ -169,10 +169,11 @@
   },
   "active": "e5af9f9e164caa5f",
   "lastOpenFiles": [
+    "Pivoting, Tunneling, And port forwarding/3. Dynamic Port Forwarding with SSH and SOCKS Tunneling.md",
+    "Pivoting, Tunneling, And port forwarding/11. ICMP Tunneling with SOCKS.md",
     "Random Hack notes/Windows/Random Tips and notes.md",
     "Random Hack notes/Windows/Useful commands.md",
     "Pivoting, Tunneling, And port forwarding/1. Introduction.md",
-    "Pivoting, Tunneling, And port forwarding/11. ICMP Tunneling with SOCKS.md",
     "Pivoting, Tunneling, And port forwarding/8. Port Forwarding with Windows Netsh.md",
     "Pivoting, Tunneling, And port forwarding/10. SOCKS5  tunneling with chisel.md",
     "AD/PrivEsc/PrivEsc techniques in AD or standalone Windows Machines..md",
@@ -181,7 +182,6 @@
     "Pivoting, Tunneling, And port forwarding/6. Socat Redirection with a reverse shell.md",
     "Pivoting, Tunneling, And port forwarding/5. Meterpreter Tunneling and Port Forwarding.md",
     "Pivoting, Tunneling, And port forwarding/4. Remote Port Forwarding with SSH.md",
-    "Pivoting, Tunneling, And port forwarding/3. Dynamic Port Forwarding with SSH and SOCKS Tunneling.md",
     "AD/Exploitation/Kerberoasting.md",
     "HTB/Alert/CSRF Script in JS.md",
     "AD/Exploitation/DCSync.md",
