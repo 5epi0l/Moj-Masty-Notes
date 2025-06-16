@@ -155,4 +155,4 @@
 61. It is possible to execute any random binary/command whenever the user logs in to the pc by creating a new value in the registry of winlogon. 
 
 
-62. If a user has NTML auth disabled, we can try to perform a kerberos authentication with netexec using the -k flag if we have their password. We can identify if NTLM is disabled if we get `STATUS_ACCOUNT_RESTRICTION` when trying NTLM auth
+62. If a user has NTML auth disabled, we can try to perform a kerberos authentication with netexec using the -k flag if we have their password. We can identify if NTLM is disabled when we get `STATUS_ACCOUNT_RESTRICTION` when trying NTLM auth
