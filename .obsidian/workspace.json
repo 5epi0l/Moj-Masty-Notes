@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pivoting, Tunneling, And port forwarding/8. Port Forwarding with Windows Netsh.md",
+                "file": "HTB/Alert/Inception/Key Takeway.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8. Port Forwarding with Windows Netsh"
+              "title": "Key Takeway"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pivoting, Tunneling, And port forwarding/8. Port Forwarding with Windows Netsh.md",
+                "file": "HTB/Alert/Inception/Key Takeway.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 8. Port Forwarding with Windows Netsh"
+              "title": "Outline of Key Takeway"
             }
           }
         ],
@@ -169,10 +169,14 @@
   },
   "active": "e5af9f9e164caa5f",
   "lastOpenFiles": [
+    "HTB/SolarLab/Key Takeway.md",
+    "HTB/Alert/Inception/Key Takeway.md",
+    "HTB/Alert/Inception",
+    "Pivoting, Tunneling, And port forwarding/8. Port Forwarding with Windows Netsh.md",
+    "HTB/SolarLab",
     "Pivoting, Tunneling, And port forwarding/3. Dynamic Port Forwarding with SSH and SOCKS Tunneling.md",
     "Pivoting, Tunneling, And port forwarding/5. Meterpreter Tunneling and Port Forwarding.md",
     "Pivoting, Tunneling, And port forwarding/4. Remote Port Forwarding with SSH.md",
-    "Pivoting, Tunneling, And port forwarding/8. Port Forwarding with Windows Netsh.md",
     "Pivoting, Tunneling, And port forwarding/6. Socat Redirection with a reverse shell.md",
     "Pivoting, Tunneling, And port forwarding/7. Web Server Pivoting with Rpivot.md",
     "Pivoting, Tunneling, And port forwarding/11. ICMP Tunneling with SOCKS.md",
@@ -193,8 +197,6 @@
     "WINDOWS FUNDAMENTALS/11. Microsoft Management Console (MMC).md",
     "WINDOWS FUNDAMENTALS/10. Windows Management Instrumentation (WMI).md",
     "WINDOWS FUNDAMENTALS/9. Execution Policy.md",
-    "WINDOWS FUNDAMENTALS/8. Windows Sessions.md",
-    "WINDOWS FUNDAMENTALS/7. Service Permissions.md",
     "HTB/Buff",
     "HTB/Alert",
     "Pivoting, Tunneling, And port forwarding",
@@ -204,8 +206,6 @@
     "UACBypass/Pasted image 20240126214055.png",
     "WINDOWS FUNDAMENTALS/OS Structure",
     "WINDOWS FUNDAMENTALS/Introduction",
-    "WINDOWS FUNDAMENTALS",
-    "Network Traffic Analysis",
     "MALDEV/Process Injection/Early-Bird APCQueueUser Injection/Pasted image 20240202224022.png",
     "Pasted image 20240324235353.png",
     "Pasted image 20240324235021.png",
