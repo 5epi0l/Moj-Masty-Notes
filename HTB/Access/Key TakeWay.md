@@ -25,5 +25,7 @@ cmdkey /list
 
 ```powershell
 
-runas /user:<username> 
+runas /user:<username> /savecred "command"
 ```
+
+
