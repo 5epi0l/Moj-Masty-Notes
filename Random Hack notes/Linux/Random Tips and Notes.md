@@ -28,3 +28,18 @@ echo <powershell_string> | iconv -t utf16-le | base64 -w0
 ```python
 import urllib.parse;urllib.parse.quote(path)
 ```
+
+
+
+8. Interesting files to look up when exploiting an LFI
+
+```bash
+1. /etc/passwd
+2. /etc/shadow
+3. /proc/self/environ
+4. /proc/self/cmdline
+5. /etc/apache2/sites-enabled/000-default.conf
+6. /var/log/apache2/access.log
+7. /var/log/auth.log
+8. /home/<user>/.ssh/id_rsa
+```
