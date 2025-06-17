@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTB/AI/Key Takeway.md",
+                "file": "AD/Enumeration/AD Cheatsheet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Key Takeway"
+              "title": "AD Cheatsheet"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTB/AI/Key Takeway.md",
+                "file": "AD/Enumeration/AD Cheatsheet.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Key Takeway"
+              "title": "Outline of AD Cheatsheet"
             }
           }
         ],
@@ -169,8 +169,8 @@
   },
   "active": "e5af9f9e164caa5f",
   "lastOpenFiles": [
-    "HTB/Access/Key TakeWay.md",
     "HTB/AI/Key Takeway.md",
+    "HTB/Access/Key TakeWay.md",
     "HTB/AI",
     "NVchad keybindings.md",
     "MALDEV/Basic Stager in Nim..md",
