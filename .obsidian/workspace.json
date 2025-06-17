@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTB/Access/Key TakeWay.md",
+                "file": "HTB/AI/Key Takeway.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Key TakeWay"
+              "title": "Key Takeway"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTB/Access/Key TakeWay.md",
+                "file": "HTB/AI/Key Takeway.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Key TakeWay"
+              "title": "Outline of Key Takeway"
             }
           }
         ],
@@ -169,8 +169,10 @@
   },
   "active": "e5af9f9e164caa5f",
   "lastOpenFiles": [
-    "NVchad keybindings.md",
     "HTB/Access/Key TakeWay.md",
+    "HTB/AI/Key Takeway.md",
+    "HTB/AI",
+    "NVchad keybindings.md",
     "MALDEV/Basic Stager in Nim..md",
     "HTB/Access",
     "MALDEV/VBA Stomping.md",
@@ -197,7 +199,6 @@
     "Pivoting, Tunneling, And port forwarding/9. DNS Tunneling with Dnscat2.md",
     "AD/Exploitation/Kerberoasting.md",
     "HTB/Alert/CSRF Script in JS.md",
-    "AD/Exploitation/DCSync.md",
     "HTB/Buff",
     "HTB/Alert",
     "Pivoting, Tunneling, And port forwarding",
@@ -205,7 +206,6 @@
     "HTB",
     "AD/Exploitation",
     "UACBypass/Pasted image 20240126214055.png",
-    "WINDOWS FUNDAMENTALS/OS Structure",
     "MALDEV/Process Injection/Early-Bird APCQueueUser Injection/Pasted image 20240202224022.png",
     "Pasted image 20240324235353.png",
     "Pasted image 20240324235021.png",
