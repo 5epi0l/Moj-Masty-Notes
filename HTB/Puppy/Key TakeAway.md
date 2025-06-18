@@ -17,7 +17,7 @@ ldapsearch -x -H ldap://<IP> -D "username@domain" -W -b "dc=domain,dc=com" "(sAM
 
 2. creating a `.ldif` file
 
-An LDIF file is a plain text file used to represent directory entries in a format that can be read and processed by LD
+An LDIF file is a plain text file used to represent directory entries in a format that can be read and processed by LDAP tools
 
 We need to reset the `UserAccountControl` attribute  of the user object.
 
