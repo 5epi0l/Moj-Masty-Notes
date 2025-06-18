@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Random Hack notes/Linux/Random Tips and Notes.md",
+                "file": "HTB/Alert/CSRF Script in JS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Random Tips and Notes"
+              "title": "CSRF Script in JS"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Random Hack notes/Linux/Random Tips and Notes.md",
+                "file": "HTB/Alert/CSRF Script in JS.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Random Tips and Notes"
+              "title": "Outline of CSRF Script in JS"
             }
           }
         ],
@@ -169,6 +169,7 @@
   },
   "active": "e5af9f9e164caa5f",
   "lastOpenFiles": [
+    "Random Hack notes/Linux/Random Tips and Notes.md",
     "eJPT/Web Recon/DNS Zone Transfer.md",
     "eJPT/Web Recon/Insecure Direct Object Reference (IDOR).md",
     "HTB/Inject/key Take Way from the machine inject.md",
@@ -190,7 +191,6 @@
     "MALDEV/Basic Stager in Nim..md",
     "HTB/Access",
     "MALDEV/VBA Stomping.md",
-    "Random Hack notes/Linux/Random Tips and Notes.md",
     "HTB/SolarLab/Key Takeway.md",
     "HTB/Inception",
     "Pivoting, Tunneling, And port forwarding/8. Port Forwarding with Windows Netsh.md",
