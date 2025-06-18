@@ -50,3 +50,24 @@ dacledit.py -action write -rights 'Full Control' -principal 'owneduser' -target 
 
 
 
+
+### 5. Finding DN of a user with ldapsearch
+
+
+```bash
+ldapsearch -x -H ldap://<IP> -D "username@domain" -W -b "dc=domain,dc=com" "(sAMAccountName=<username>)"
+```
+
+
+
+
+
+### 6.  LdapModify with an LDIF file
+
+
+```bash
+ldapmodify -x -H ldap://<ip> -D "username@domain" -W -f <ldif_file
+```
+
+
+
