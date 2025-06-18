@@ -71,3 +71,21 @@ ldapmodify -x -H ldap://<ip> -D "username@domain" -W -f <ldif_file
 
 
 
+
+
+### 7. Decrypting DPAPI master key 
+
+
+```bash
+impacket-dpapi -master <masterkeyfile> -sid SID -password <password_of_the_user>
+```
+
+
+
+
+### 8. Decrypting DPAPI credential blob
+
+
+```bash
+impacket-dpapi -key <decrypted_master_key> -cred <encrypted_cred_blob>
+```

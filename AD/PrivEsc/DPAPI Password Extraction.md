@@ -15,7 +15,7 @@ It can protect :
 #### Working Mechanism
 
 1. Data is encrypted with **CryptProtectData()**
-2. This uses a Master Key, which is stored encryted in :
+2. This uses a Master Key, which is stored encrypted in :
 	- `C:\Users\username\appdata\Roaming\Microsoft\Protect\SID\`
 
 
@@ -40,7 +40,7 @@ C:\Users\username\appdata\Roaming\Microsoft\Credentials\
 #### Impacket-dpapi
 
 
-Once we have extracted the encrypted masterkey and the encrypted credential blob, we can use `impacket-dpapi` to decrypt the credential blob.
+Once we have locally saved the encrypted masterkey and the encrypted credential blob, we can use `impacket-dpapi` to decrypt the credential blob.
 
 
 
@@ -57,7 +57,3 @@ impacket-dpapi -master <masterkeyfile> -sid SID -password <password_of_the_user>
 ```bash
 impacket-dpapi -key <decrypted_master_key> -cred <encrypted_cred_blob>
 ```
-
-
-
-
