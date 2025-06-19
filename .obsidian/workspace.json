@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AD/Enumeration/AD Cheatsheet.md",
+                "file": "HTB/Access/Key TakeWay.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AD Cheatsheet"
+              "title": "Key TakeWay"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AD/Enumeration/AD Cheatsheet.md",
+                "file": "HTB/Access/Key TakeWay.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of AD Cheatsheet"
+              "title": "Outline of Key TakeWay"
             }
           }
         ],
@@ -169,21 +169,22 @@
   },
   "active": "e5af9f9e164caa5f",
   "lastOpenFiles": [
+    "HTB/SolarLab/Key Takeway.md",
+    "HTB/Puppy/Key TakeAway.md",
+    "HTB/Inception/Key Takeway.md",
+    "HTB/Inject/key Take Way from the machine inject.md",
+    "HTB/Buff/Key TakeWay.md",
     "HTB/Alert/CSRF Script in JS.md",
+    "HTB/Access/Key TakeWay.md",
+    "AD/Enumeration/AD Cheatsheet.md",
     "Random Hack notes/Linux/Random Tips and Notes.md",
     "eJPT/Web Recon/DNS Zone Transfer.md",
     "eJPT/Web Recon/Insecure Direct Object Reference (IDOR).md",
-    "HTB/Inject/key Take Way from the machine inject.md",
-    "HTB/Inception/Key Takeway.md",
-    "HTB/Buff/Key TakeWay.md",
     "HTB/Alert/Key Takeway.md",
-    "HTB/Access/Key TakeWay.md",
     "AD/PrivEsc/PrivEsc techniques in AD or standalone Windows Machines..md",
     "AD/PrivEsc/DPAPI Password Extraction.md",
-    "HTB/Puppy/Key TakeAway.md",
     "HTB/Puppy/Key TakeAway (PrivEsc).md",
     "Untitled",
-    "AD/Enumeration/AD Cheatsheet.md",
     "HTB/AI/Key Takeway.md",
     "HTB/Puppy",
     "HTB/AI",
@@ -191,7 +192,6 @@
     "MALDEV/Basic Stager in Nim..md",
     "HTB/Access",
     "MALDEV/VBA Stomping.md",
-    "HTB/SolarLab/Key Takeway.md",
     "HTB/Inception",
     "Pivoting, Tunneling, And port forwarding/8. Port Forwarding with Windows Netsh.md",
     "HTB/SolarLab",
