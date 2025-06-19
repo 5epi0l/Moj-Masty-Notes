@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTB/Alert/CSRF Script in JS.md",
+                "file": "AD/Enumeration/AD Cheatsheet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CSRF Script in JS"
+              "title": "AD Cheatsheet"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTB/Alert/CSRF Script in JS.md",
+                "file": "AD/Enumeration/AD Cheatsheet.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of CSRF Script in JS"
+              "title": "Outline of AD Cheatsheet"
             }
           }
         ],
@@ -169,6 +169,7 @@
   },
   "active": "e5af9f9e164caa5f",
   "lastOpenFiles": [
+    "HTB/Alert/CSRF Script in JS.md",
     "Random Hack notes/Linux/Random Tips and Notes.md",
     "eJPT/Web Recon/DNS Zone Transfer.md",
     "eJPT/Web Recon/Insecure Direct Object Reference (IDOR).md",
@@ -176,7 +177,6 @@
     "HTB/Inception/Key Takeway.md",
     "HTB/Buff/Key TakeWay.md",
     "HTB/Alert/Key Takeway.md",
-    "HTB/Alert/CSRF Script in JS.md",
     "HTB/Access/Key TakeWay.md",
     "AD/PrivEsc/PrivEsc techniques in AD or standalone Windows Machines..md",
     "AD/PrivEsc/DPAPI Password Extraction.md",
