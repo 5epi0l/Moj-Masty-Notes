@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pivoting, Tunneling, And port forwarding/11. ICMP Tunneling with SOCKS.md",
+                "file": "Web/Introduction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11. ICMP Tunneling with SOCKS"
+              "title": "Introduction"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pivoting, Tunneling, And port forwarding/11. ICMP Tunneling with SOCKS.md",
+                "file": "Web/Introduction.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 11. ICMP Tunneling with SOCKS"
+              "title": "Outline of Introduction"
             }
           }
         ],
@@ -169,6 +169,21 @@
   },
   "active": "e5af9f9e164caa5f",
   "lastOpenFiles": [
+    "WINDOWS FUNDAMENTALS/1. Windows Versions.md",
+    "Web/Introduction.md",
+    "Web",
+    "WINDOWS FUNDAMENTALS/2. Accessing Windows.md",
+    "WINDOWS FUNDAMENTALS/3. OS Structure.md",
+    "WINDOWS FUNDAMENTALS/4. File System.md",
+    "WINDOWS FUNDAMENTALS/5. NTFS vs.  Share Permissions.md",
+    "WINDOWS FUNDAMENTALS/7. Service Permissions.md",
+    "WINDOWS FUNDAMENTALS/6. Windows Service and Processes.md",
+    "WINDOWS FUNDAMENTALS/8. Windows Sessions.md",
+    "WINDOWS FUNDAMENTALS/9. Execution Policy.md",
+    "WINDOWS FUNDAMENTALS/10. Windows Management Instrumentation (WMI).md",
+    "WINDOWS FUNDAMENTALS/11. Microsoft Management Console (MMC).md",
+    "WINDOWS FUNDAMENTALS/12. Windows Security.md",
+    "Pivoting, Tunneling, And port forwarding/11. ICMP Tunneling with SOCKS.md",
     "Pivoting, Tunneling, And port forwarding/10. SOCKS5  tunneling with chisel.md",
     "Pivoting, Tunneling, And port forwarding/9. DNS Tunneling with Dnscat2.md",
     "Pivoting, Tunneling, And port forwarding/8. Port Forwarding with Windows Netsh.md",
@@ -181,21 +196,6 @@
     "Pivoting, Tunneling, And port forwarding/1. Introduction.md",
     "HTB/Access/Key TakeWay.md",
     "HTB/SolarLab/Key Takeway.md",
-    "HTB/Puppy/Key TakeAway.md",
-    "HTB/Inception/Key Takeway.md",
-    "HTB/Inject/key Take Way from the machine inject.md",
-    "HTB/Buff/Key TakeWay.md",
-    "HTB/Alert/CSRF Script in JS.md",
-    "AD/Enumeration/AD Cheatsheet.md",
-    "Random Hack notes/Linux/Random Tips and Notes.md",
-    "eJPT/Web Recon/DNS Zone Transfer.md",
-    "eJPT/Web Recon/Insecure Direct Object Reference (IDOR).md",
-    "HTB/Alert/Key Takeway.md",
-    "AD/PrivEsc/PrivEsc techniques in AD or standalone Windows Machines..md",
-    "AD/PrivEsc/DPAPI Password Extraction.md",
-    "HTB/Puppy/Key TakeAway (PrivEsc).md",
-    "Untitled",
-    "HTB/AI/Key Takeway.md",
     "HTB/Puppy",
     "HTB/AI",
     "HTB/Access",
