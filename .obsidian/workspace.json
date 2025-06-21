@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTB/Access/Key TakeWay.md",
+                "file": "Pivoting, Tunneling, And port forwarding/3. Dynamic Port Forwarding with SSH and SOCKS Tunneling.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Key TakeWay"
+              "title": "3. Dynamic Port Forwarding with SSH and SOCKS Tunneling"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTB/Access/Key TakeWay.md",
+                "file": "Pivoting, Tunneling, And port forwarding/3. Dynamic Port Forwarding with SSH and SOCKS Tunneling.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Key TakeWay"
+              "title": "Outline of 3. Dynamic Port Forwarding with SSH and SOCKS Tunneling"
             }
           }
         ],
@@ -169,13 +169,13 @@
   },
   "active": "e5af9f9e164caa5f",
   "lastOpenFiles": [
+    "HTB/Access/Key TakeWay.md",
     "HTB/SolarLab/Key Takeway.md",
     "HTB/Puppy/Key TakeAway.md",
     "HTB/Inception/Key Takeway.md",
     "HTB/Inject/key Take Way from the machine inject.md",
     "HTB/Buff/Key TakeWay.md",
     "HTB/Alert/CSRF Script in JS.md",
-    "HTB/Access/Key TakeWay.md",
     "AD/Enumeration/AD Cheatsheet.md",
     "Random Hack notes/Linux/Random Tips and Notes.md",
     "eJPT/Web Recon/DNS Zone Transfer.md",
