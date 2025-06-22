@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/Introduction.md",
+                "file": "Windows PrivEsc/Checklist.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Introduction"
+              "title": "Checklist"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web/Introduction.md",
+                "file": "Windows PrivEsc/Checklist.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Introduction"
+              "title": "Outline of Checklist"
             }
           }
         ],
@@ -169,8 +169,8 @@
   },
   "active": "e5af9f9e164caa5f",
   "lastOpenFiles": [
-    "WINDOWS FUNDAMENTALS/1. Windows Versions.md",
     "Web/Introduction.md",
+    "WINDOWS FUNDAMENTALS/1. Windows Versions.md",
     "Web",
     "WINDOWS FUNDAMENTALS/2. Accessing Windows.md",
     "WINDOWS FUNDAMENTALS/3. OS Structure.md",
