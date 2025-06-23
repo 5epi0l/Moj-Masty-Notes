@@ -51,14 +51,14 @@ Each Web Application can have different number of components. Nevertheless, all 
 
 
 
-
 ### WebApp Architecture
 
 
 The components of a WebApp are divided into three different layers 
 
 
-| Layer              | Description                                                                                                                                         |
-| ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Presentation Layer | - Consists of the UI process components.<br>- Can be accessed by the client via the web browser and<br>are returned in the form of HTML, CSS and JS |
-| Application Layer  | - This layer ensures that all client requests are correctly processed.<br>- Various                                                                 |
+| Layer              | Description                                                                                                                                                                   |
+| ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Presentation Layer | - Consists of the UI process components.<br>- Can be accessed by the client via the web browser and<br>are returned in the form of HTML, CSS and JS                           |
+| Application Layer  | - This layer ensures that all client requests are correctly processed.<br>- Various criteria are checked, such as authorization, privileges, and data passed on to the client |
+| Data Layer         | - Works closely with the application layer to determine exactly where the required data is stored and can be accessed                                                         |
