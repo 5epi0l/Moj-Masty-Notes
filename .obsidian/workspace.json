@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Windows PrivEsc/Checklist.md",
+                "file": "Web/Web Application Layout.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Checklist"
+              "title": "Web Application Layout"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Windows PrivEsc/Checklist.md",
+                "file": "Web/Web Application Layout.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Checklist"
+              "title": "Outline of Web Application Layout"
             }
           }
         ],
@@ -170,6 +170,8 @@
   "active": "e5af9f9e164caa5f",
   "lastOpenFiles": [
     "Web/Introduction.md",
+    "Web/Web Application Layout.md",
+    "Windows PrivEsc/Checklist.md",
     "WINDOWS FUNDAMENTALS/1. Windows Versions.md",
     "Web",
     "WINDOWS FUNDAMENTALS/2. Accessing Windows.md",
@@ -194,8 +196,6 @@
     "Pivoting, Tunneling, And port forwarding/3. Dynamic Port Forwarding with SSH and SOCKS Tunneling.md",
     "Pivoting, Tunneling, And port forwarding/2. The Networking behind Pivoting.md",
     "Pivoting, Tunneling, And port forwarding/1. Introduction.md",
-    "HTB/Access/Key TakeWay.md",
-    "HTB/SolarLab/Key Takeway.md",
     "HTB/Puppy",
     "HTB/AI",
     "HTB/Access",
