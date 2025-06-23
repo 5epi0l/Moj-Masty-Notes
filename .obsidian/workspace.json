@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/Front End Vs Back End.md",
+                "file": "HTB/SolarLab/Key Takeway.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Front End Vs Back End"
+              "title": "Key Takeway"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web/Front End Vs Back End.md",
+                "file": "HTB/SolarLab/Key Takeway.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Front End Vs Back End"
+              "title": "Outline of Key Takeway"
             }
           }
         ],
@@ -169,8 +169,15 @@
   },
   "active": "e5af9f9e164caa5f",
   "lastOpenFiles": [
-    "Web/Web Application Layout.md",
+    "HTB/Puppy/Key TakeAway.md",
+    "HTB/Inject/key Take Way from the machine inject.md",
+    "HTB/Inception/Key Takeway.md",
+    "HTB/Buff/Key TakeWay.md",
+    "HTB/Alert/Key Takeway.md",
+    "HTB/AI/Key Takeway.md",
+    "HTB/Access/Key TakeWay.md",
     "Web/Front End Vs Back End.md",
+    "Web/Web Application Layout.md",
     "Web/Introduction.md",
     "Windows PrivEsc/Checklist.md",
     "WINDOWS FUNDAMENTALS/1. Windows Versions.md",
@@ -189,13 +196,6 @@
     "Pivoting, Tunneling, And port forwarding/11. ICMP Tunneling with SOCKS.md",
     "Pivoting, Tunneling, And port forwarding/10. SOCKS5  tunneling with chisel.md",
     "Pivoting, Tunneling, And port forwarding/9. DNS Tunneling with Dnscat2.md",
-    "Pivoting, Tunneling, And port forwarding/8. Port Forwarding with Windows Netsh.md",
-    "Pivoting, Tunneling, And port forwarding/7. Web Server Pivoting with Rpivot.md",
-    "Pivoting, Tunneling, And port forwarding/6. Socat Redirection with a reverse shell.md",
-    "Pivoting, Tunneling, And port forwarding/5. Meterpreter Tunneling and Port Forwarding.md",
-    "Pivoting, Tunneling, And port forwarding/4. Remote Port Forwarding with SSH.md",
-    "Pivoting, Tunneling, And port forwarding/3. Dynamic Port Forwarding with SSH and SOCKS Tunneling.md",
-    "Pivoting, Tunneling, And port forwarding/2. The Networking behind Pivoting.md",
     "HTB/Puppy",
     "HTB/AI",
     "HTB/Access",
