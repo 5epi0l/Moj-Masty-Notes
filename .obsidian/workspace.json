@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/2. Web Application Layout.md",
+                "file": "Web/3. Front End Vs Back End.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Web Application Layout"
+              "title": "3. Front End Vs Back End"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web/2. Web Application Layout.md",
+                "file": "Web/3. Front End Vs Back End.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2. Web Application Layout"
+              "title": "Outline of 3. Front End Vs Back End"
             }
           }
         ],
@@ -169,8 +169,8 @@
   },
   "active": "e5af9f9e164caa5f",
   "lastOpenFiles": [
-    "Web/3. Front End Vs Back End.md",
     "Web/2. Web Application Layout.md",
+    "Web/3. Front End Vs Back End.md",
     "Web/1. Introduction.md",
     "HTB/SolarLab/Key Takeway.md",
     "HTB/Puppy/Key TakeAway.md",
