@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/3. Front End Vs Back End.md",
+                "file": "Web Basics/3. Front End Vs Back End.md",
                 "mode": "source",
                 "source": false
               },
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web/3. Front End Vs Back End.md",
+                "file": "Web Basics/3. Front End Vs Back End.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -167,11 +167,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e5af9f9e164caa5f",
+  "active": "ed7f23997b4a1279",
   "lastOpenFiles": [
-    "Web/2. Web Application Layout.md",
-    "Web/3. Front End Vs Back End.md",
-    "Web/1. Introduction.md",
+    "Web Basics/2. Web Application Layout.md",
+    "Web Basics/3. Front End Vs Back End.md",
+    "Web Basics/1. Introduction.md",
     "HTB/SolarLab/Key Takeway.md",
     "HTB/Puppy/Key TakeAway.md",
     "HTB/Inject/key Take Way from the machine inject.md",
@@ -182,7 +182,7 @@
     "HTB/Access/Key TakeWay.md",
     "Windows PrivEsc/Checklist.md",
     "WINDOWS FUNDAMENTALS/1. Windows Versions.md",
-    "Web",
+    "Web Basics",
     "WINDOWS FUNDAMENTALS/2. Accessing Windows.md",
     "WINDOWS FUNDAMENTALS/3. OS Structure.md",
     "WINDOWS FUNDAMENTALS/4. File System.md",
