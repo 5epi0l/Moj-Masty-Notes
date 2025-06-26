@@ -1,0 +1,29 @@
+
+SQL Injection is a web security vulnerability that allows an attacker to interfere with the queries that an application makes to the database. This can allow an attacker to view data that they are not able to retrieve normally. 
+
+In many cases, an attacker can modify or delete this data, causing persistent changes to the application's content or behaviour
+
+
+
+
+### Impact of SQLi
+
+A Successful SQLi can result in unauthorized access to sensitive data, such as:
+
+
+- Passwords
+- Credit Card Details
+- Personal User Information
+
+
+
+
+### Detection Of SQLi 
+
+SQLi injection can be detected manually by submitting :
+
+- The single quote character and look for errors
+- Boolean conditions such as **OR 1=1** and **OR 1=2** and look for differences in the application's response
+- Payloads designed to trigger time delays when executed within an SQL query, and look for differences in the time taken to respond
+- OAST Payloads designed to trigger an out-of-band network interaction when executed within a SQL query, and monitor resulting interactions
+
