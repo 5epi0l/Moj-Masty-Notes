@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Hacking/SQL Injection/2. Retrieving hidden data.md",
+                "file": "Web Hacking/SQL Injection/3. Blind SQL Injection vulnerabilities.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Retrieving hidden data"
+              "title": "3. Blind SQL Injection vulnerabilities"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Hacking/SQL Injection/2. Retrieving hidden data.md",
+                "file": "Web Hacking/SQL Injection/3. Blind SQL Injection vulnerabilities.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2. Retrieving hidden data"
+              "title": "Outline of 3. Blind SQL Injection vulnerabilities"
             }
           }
         ],
@@ -169,9 +169,10 @@
   },
   "active": "e5af9f9e164caa5f",
   "lastOpenFiles": [
+    "Web Hacking/SQL Injection/2. Retrieving hidden data.md",
+    "Web Hacking/SQL Injection/3. Blind SQL Injection vulnerabilities.md",
     "Web Hacking/SQL Injection/1. What is SQL Injection (SQLi)?.md",
     "UACBypass/UAC Bypass.md",
-    "Web Hacking/SQL Injection/2. Retrieving hidden data.md",
     "Web Basics/3. Front End Vs Back End.md",
     "Web Hacking/SQL Injection",
     "Web Hacking",
@@ -197,7 +198,6 @@
     "WINDOWS FUNDAMENTALS/8. Windows Sessions.md",
     "WINDOWS FUNDAMENTALS/9. Execution Policy.md",
     "WINDOWS FUNDAMENTALS/10. Windows Management Instrumentation (WMI).md",
-    "WINDOWS FUNDAMENTALS/11. Microsoft Management Console (MMC).md",
     "HTB/Puppy",
     "HTB/AI",
     "HTB/Access",
