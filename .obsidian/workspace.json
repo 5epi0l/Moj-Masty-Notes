@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Hacking/SQL Injection/3. Blind SQL Injection.md",
+                "file": "Web Basics/4. Hyper Text Transfer Protocol (HTTP).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Blind SQL Injection"
+              "title": "4. Hyper Text Transfer Protocol (HTTP)"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Hacking/SQL Injection/3. Blind SQL Injection.md",
+                "file": "Web Basics/4. Hyper Text Transfer Protocol (HTTP).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 3. Blind SQL Injection"
+              "title": "Outline of 4. Hyper Text Transfer Protocol (HTTP)"
             }
           }
         ],
@@ -169,19 +169,20 @@
   },
   "active": "e5af9f9e164caa5f",
   "lastOpenFiles": [
-    "Web Hacking/SQL Injection/7. Blind SQL Injection.md",
-    "Web Hacking/SQL Injection/3. Blind SQL Injection.md",
-    "Web Hacking/SQL Injection/6. SQL Injection UNION attack.md",
-    "Web Hacking/SQL Injection/5. Examining the database in SQL injection attacks.md",
-    "Web Hacking/SQL Injection/4. Second-Order SQL Injection.md",
     "Web Hacking/SQL Injection/2. Retrieving hidden data.md",
+    "Web Basics/4. Hyper Text Transfer Protocol (HTTP).md",
+    "Web Basics/1. Introduction.md",
+    "Web Hacking/SQL Injection/6. SQL Injection UNION attack.md",
+    "Web Hacking/SQL Injection/3. Blind SQL Injection.md",
+    "Web Hacking/SQL Injection/4. Second-Order SQL Injection.md",
+    "Web Hacking/SQL Injection/7. Blind SQL Injection.md",
+    "Web Hacking/SQL Injection/5. Examining the database in SQL injection attacks.md",
     "Web Hacking/SQL Injection/1. What is SQL Injection (SQLi)?.md",
     "UACBypass/UAC Bypass.md",
     "Web Basics/3. Front End Vs Back End.md",
     "Web Hacking/SQL Injection",
     "Web Hacking",
     "Web Basics/2. Web Application Layout.md",
-    "Web Basics/1. Introduction.md",
     "HTB/SolarLab/Key Takeway.md",
     "HTB/Puppy/Key TakeAway.md",
     "HTB/Inject/key Take Way from the machine inject.md",
@@ -197,7 +198,6 @@
     "WINDOWS FUNDAMENTALS/3. OS Structure.md",
     "WINDOWS FUNDAMENTALS/4. File System.md",
     "WINDOWS FUNDAMENTALS/5. NTFS vs.  Share Permissions.md",
-    "WINDOWS FUNDAMENTALS/7. Service Permissions.md",
     "HTB/Puppy",
     "HTB/AI",
     "HTB/Access",
