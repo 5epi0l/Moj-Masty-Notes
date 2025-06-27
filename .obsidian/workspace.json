@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Basics/4. Hyper Text Transfer Protocol (HTTP).md",
+                "file": "Web Hacking/SQL Injection/1. What is SQL Injection (SQLi)?.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. Hyper Text Transfer Protocol (HTTP)"
+              "title": "1. What is SQL Injection (SQLi)?"
             }
           }
         ],
@@ -155,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Basics/4. Hyper Text Transfer Protocol (HTTP).md",
+                "file": "Web Hacking/SQL Injection/1. What is SQL Injection (SQLi)?.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 4. Hyper Text Transfer Protocol (HTTP)"
+              "title": "Outline of 1. What is SQL Injection (SQLi)?"
             }
           }
         ],
@@ -184,11 +184,11 @@
   },
   "active": "48cb65a360986816",
   "lastOpenFiles": [
+    "Web Basics/4. Hyper Text Transfer Protocol (HTTP).md",
     "Web Basics/3. Front End Vs Back End.md",
     "Web Basics/2. Web Application Layout.md",
     "Web Basics/1. Introduction.md",
     "Untitled.md",
-    "Web Basics/4. Hyper Text Transfer Protocol (HTTP).md",
     "Web Hacking/SQL Injection/2. Retrieving hidden data.md",
     "Web Hacking/SQL Injection/6. SQL Injection UNION attack.md",
     "Web Hacking/SQL Injection/3. Blind SQL Injection.md",
