@@ -18,15 +18,6 @@ When a user logs in, they leave their credentials exposed. So, it is possible to
 We can use mimikatz to extract passwords from memory in plain text. However, we would require admin rights for doing so.
 
 
-```
-privilege::debug
-
-sekurlsa::logonpasswords
-```
-
-
-
-
 
 ## 2. GenericAll
 
@@ -43,6 +34,20 @@ If we have full control over a Group, we can modify modify group membership of t
 #### Abuse Info :
 
 
-1. If we have 
+1. Changing the group ownership with impacket-owneredit
+2. Granting FullControl over the group with impacket-dacledit
+3. Adding Ourselves to that group using : 
+	1. BloodyAD
+	2. pth-net
+	3. ldapmodify
+	4. ldap_shell
+
+
+
+### GenericAll Over a User
+
+If we have Full Control over a user, we can change their password
+
+
 
 

@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AD/Enumeration/AD Cheatsheet.md",
+                "file": "AD/BloodHound/OutBound Control Rights.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AD Cheatsheet"
+              "title": "OutBound Control Rights"
             }
           }
         ],
@@ -155,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AD/Enumeration/AD Cheatsheet.md",
+                "file": "AD/BloodHound/OutBound Control Rights.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of AD Cheatsheet"
+              "title": "Outline of OutBound Control Rights"
             }
           }
         ],
@@ -184,10 +184,10 @@
   },
   "active": "48cb65a360986816",
   "lastOpenFiles": [
+    "AD/Enumeration/AD Cheatsheet.md",
     "AD/BloodHound/OutBound Control Rights.md",
     "Web Hacking/SQL Injection/2. Retrieving hidden data.md",
     "Web Hacking/SQL Injection/1. What is SQL Injection (SQLi)?.md",
-    "AD/Enumeration/AD Cheatsheet.md",
     "AD/BloodHound",
     "AD/Lateral Movement/Token Manipulation.md",
     "AD/Lateral Movement/PowerView and Impacket.md",
