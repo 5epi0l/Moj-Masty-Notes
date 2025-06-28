@@ -46,7 +46,32 @@ If we have full control over a Group, we can modify modify group membership of t
 
 ### GenericAll Over a User
 
-If we have Full Control over a user, we can change their password
+If we have Full Control over a user, we can reset their password. We can also write to the  **msds-KeyCredentialLink**  attribute of a user. Writing to this property allows an attacker to create “Shadow Credentials” on the object and authenticate as the principal using Kerberos PKINIT
+
+Alternatively, we can write to the “servicePrincipalNames” attribute and perform a targeted kerberoasting attack.
+
+
+
+#### Abuse Info
+
+1. Change the OwnerShip of the User with impacket-owneredit
+2. Granting FullControl over the User with impacket-dacledit
+3. Reseting the password 
+
+
+
+### GenericAll Over a Computer
+
+
+If we have full Control over a workstation, we can dump the LAPS password. 
+Alternatively, Full control of a computer object can be used to perform a Resource-Based Constrained Delegation attack
+
+
+
+
+
+
+
 
 
 
