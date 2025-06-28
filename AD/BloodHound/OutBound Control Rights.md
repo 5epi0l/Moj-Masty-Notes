@@ -4,7 +4,7 @@ Whenever running BloodHound in an AD environment, we are presented with differen
 
 
 
-### 1. HasSession
+## 1. HasSession
 
 
 If we have HasSession over a user object, it means that have an active session on the machine. In simple terms, they are logged in. 
@@ -26,5 +26,23 @@ sekurlsa::logonpasswords
 
 
 
+
+
+## 2. GenericAll
+
+
+If we have GenericAll over an object, it essentially means that we have full control over that object. From here on, We can manipulate this object however we wish
+
+
+
+### GenericAll over a Group
+
+If we have full control over a Group, we can modify modify group membership of the group. We can add or remove any user we wish from that group. 
+
+
+#### Abuse Info :
+
+
+1. If we have 
 
 
