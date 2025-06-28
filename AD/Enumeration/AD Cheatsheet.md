@@ -101,3 +101,6 @@ impacket-dpapi -key <decrypted_master_key> -cred <encrypted_cred_blob>
 dcomexec.py domain/username:password@ip -dc-ip <ip> -M MMC20 'command'
 ```
 
+
+
+
