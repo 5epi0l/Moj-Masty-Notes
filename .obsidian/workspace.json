@@ -93,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 775.5
   },
   "right": {
     "id": "3a6b8a57160f2bfb",
@@ -182,8 +182,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "48cb65a360986816",
+  "active": "ed7f23997b4a1279",
   "lastOpenFiles": [
+    "USEFUL-LINKS/Useful Links.md",
+    "USEFUL-LINKS",
+    "Index.md",
     "AD/Enumeration/AD Cheatsheet.md",
     "AD/BloodHound/OutBound Control Rights.md",
     "Web Hacking/SQL Injection/2. Retrieving hidden data.md",
@@ -211,15 +214,12 @@
     "HTB/Puppy/Key TakeAway.md",
     "HTB/Inject/key Take Way from the machine inject.md",
     "HTB/Inception/Key Takeway.md",
-    "HTB/Buff/Key TakeWay.md",
-    "HTB/Alert/Key Takeway.md",
     "Web Basics",
     "HTB/Puppy",
     "HTB/AI",
     "HTB/Access",
     "HTB/Inception",
     "HTB/SolarLab",
-    "HTB/Buff",
     "UACBypass/Pasted image 20240126214055.png",
     "MALDEV/Process Injection/Early-Bird APCQueueUser Injection/Pasted image 20240202224022.png",
     "Pasted image 20240324235353.png",
